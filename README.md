@@ -1,6 +1,9 @@
 ## 📦 express
     node framework
 
+## 📦 express-session
+    session handling & persistent session data
+
 ## 📦 mongoose
     mongoDB communication
 
