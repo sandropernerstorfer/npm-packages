@@ -14,10 +14,13 @@
     unique ID generator
 
 ## 📦 axios
-    http requests
+    promise based http client
 
 ## 📦 dotenv
     loads variables from .env into process.env
 
 ## 📦 cookie-parser
     middleware to easily work with cookies on server
+
+## 📦 cloudinary - works good with 📦 formidable
+    cloud api solution for image and video storing
