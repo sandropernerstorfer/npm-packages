@@ -22,5 +22,8 @@
 ## 📦 cookie-parser
     middleware to easily work with cookies on server
 
+## 📦 socket.io
+    realtime event based communication between client and server (websockets)
+
 ## 📦 cloudinary - works good with 📦 formidable
     cloud api solution for image and video storing
