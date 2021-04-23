@@ -25,7 +25,7 @@
 ## 📦 socket.io
     realtime event based communication between client and server (websockets)
 
-## 📦 cloudinary - works good with 📦 formidable
+## 📦 cloudinary
     cloud api solution for image and video storing
 
 ## 📦 formidable
