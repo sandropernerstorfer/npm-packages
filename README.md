@@ -27,3 +27,6 @@
 
 ## 📦 cloudinary - works good with 📦 formidable
     cloud api solution for image and video storing
+
+## 📦 formidable
+    good solution to work with file uploads
